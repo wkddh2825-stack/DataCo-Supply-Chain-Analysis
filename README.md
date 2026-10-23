@@ -1,3 +1,4 @@
+[한국어 버전](README_KR.md)
 # DataCo Supply Chain Analysis
 
 Supply chain delivery performance analysis and short-term demand forecasting using **Python, Prophet, and Power BI**.
